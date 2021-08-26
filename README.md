@@ -14,4 +14,14 @@ In this repository you can find files and code that was used by Synthetic Biobot
 
      *The structure of this three models can be compared using a molecule visualization tool in order to see the high structure similarity between models.*
 
-* [Arsenate.pdb](Arsenate.pdb):
+* [Arsenate.pdb](Arsenate.pdb): Arsenate structure file obtained from [RCSB PDB](https://www3.rcsb.org/ligand/ART) with code ART; it was downloades in SDF format and then converted into PDB using [OpenBabel gui](https://openbabel.org/docs/dev/Installation/install.html).
+
+* [AD4_parameters.dat](AD4_parameters.dat): Parameter file for molecular docking of [ArsR homodimer](model.pdb) and [arsenate](arsenate.pdb) with [Autodock Tools](http://autodock.scripps.edu/resources/adt); this includes the physicochemical properties of arsenic that are necessary for the docking.
+
+* [AD4.1_bound.dat](AD4.1_bound.dat): Parameter file for molecular docking of ArsR homodimer and arsenate with Autodock Tools; this includes the physicochemical properties of arsenic that are necessary for the docking.
+
+* [arsenate_gridparam.gpf](arsenate_gridparam.gpf): Grid parameter file used for docking of ArsR homodimer and arsenate with Autogrid.
+
+* [arsenate_dockparam.dpf](arsenate_dockparam.dpf): Docking parameter file used for docking of ArsR homodimer and arsenate with Autodock.
+
+* [arsenate_docklog.dlg](arsenate_docklog.dlg): Results of molecular docking of ArsR homodimer with arsenate using Autodock; the conformations described in this file can be visualized using Autodock Tools.
