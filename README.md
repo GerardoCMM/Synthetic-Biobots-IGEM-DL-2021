@@ -31,6 +31,8 @@ In this repository you can find files and parts that were used by Synthetic Biob
 
 * [IDLBB_002059](IDLBB_002059.fasta): GFP (CDS) Green Fluorescent Protein.
 
+* [IDLBB_002060](IDLBB_002060.fasta): CadR (CDS), Regulatory protein from Pseudomonas putida, complete genome [CP007620.1](https://www.ncbi.nlm.nih.gov/nuccore/CP007620.1/) (5933110..5933571)
+
 * [alphafold2_model.pdb](alphafold2_model.pdb): This file includes the structure of ArsR protein from E. coli strain K12 substrain MG1655 predicted using [Moonbear server](https://www.getmoonbear.com/AlphaFold2) for ab initio protein structure prediction using AlphaFold2 algorithm.
 
 
