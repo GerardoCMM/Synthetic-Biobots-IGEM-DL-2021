@@ -11,7 +11,7 @@ In this repository you can find files and code that was used by Synthetic Biobot
 
 * [Arsenate.pdb](Arsenate.pdb): Arsenate structure file obtained from [RCSB PDB](https://www3.rcsb.org/ligand/ART) with code ART; it was downloades in SDF format and then converted into PDB using [OpenBabel gui](https://openbabel.org/docs/dev/Installation/install.html).
 
-* [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of [ABS (ArsR Binding Site) 23-56](IDLBB_002056.fasta), PArsR (Promoter) 49-85, RBS (Ribosome Binding Site) 94-107, ArsR (CDS) 114-467, ABS (ArsR Binding Site) 476-509, RBS (Ribosome Binding Site) 518-531, GFP (CDS) 538-1257 and rrnBT1 (Terminator) 1266-1345.
+* [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS (ArsR Binding Site) 23-56, PArsR (Promoter) 49-85, RBS (Ribosome Binding Site) 94-107, ArsR (CDS) 114-467, ABS (ArsR Binding Site) 476-509, RBS (Ribosome Binding Site) 518-531, GFP (CDS) 538-1257 and rrnBT1 (Terminator) 1266-1345.
 
 * [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Reverse rrnBT1 (Terminator) 23-102, Reverse CadR (CDS) 111-554, Reverse RBS (Ribosome Binding Site) 561-574, Reverse Bidirectional Promoter 583-666, RBS (Ribosome Binding Site) 675-688, mCherry (CDS) 695-140 and rrnBT1 (Terminator) 1414-1493.
 
