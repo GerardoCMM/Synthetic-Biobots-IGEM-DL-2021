@@ -5,11 +5,6 @@ In this repository you can find files and parts that were used by Synthetic Biob
 
 
 ## Descriptions
-* [AD4.1_bound.dat](AD4.1_bound.dat): Parameter file for molecular docking of ArsR homodimer and arsenate with Autodock Tools; this includes the physicochemical properties of arsenic that are necessary for the docking.
-
-* [AD4_parameters.dat](AD4_parameters.dat): Parameter file for molecular docking of [ArsR homodimer](model.pdb) and [arsenate](arsenate.pdb) with [Autodock Tools](http://autodock.scripps.edu/resources/adt); this includes the physicochemical properties of arsenic that are necessary for the docking.
-
-* [Arsenate.pdb](Arsenate.pdb): Arsenate structure file obtained from [RCSB PDB](https://www3.rcsb.org/ligand/ART) with code ART; it was downloades in SDF format and then converted into PDB using [OpenBabel gui](https://openbabel.org/docs/dev/Installation/install.html).
 
 * [BBa_B0010](BBa_B0010.fasta): rrnBT1 (Terminator) from [iGEM Part:BBa_B0010](http://parts.igem.org/Part:BBa_B0010). Designed by: Randy Rettberg Group: Antiquity (2003-11-19).
 
@@ -48,10 +43,3 @@ In this repository you can find files and parts that were used by Synthetic Biob
 * [IDLBB_002064](IDLBB_002064.fasta): ArsC (CDS), Arsenate Reductase from Escherichia coli str. K-12 substr. MG1655, complete genome [U00096.3](https://www.ncbi.nlm.nih.gov/nuccore/U00096.3/) (3650237..3650662)
 
 * [IDLBB_002065](IDLBB_002065.fasta): CadA (CDS), Cadmium transporting ATPase from Pseudomonas putida, Regulatory protein from Pseudomonas putida, complete genome [CP007620.1](https://www.ncbi.nlm.nih.gov/nuccore/CP007620.1/) Complement(5930830..5933043), synonymal puntual mutation (213), A to G, in order to achieve standarization [RFC[10]](https://parts.igem.org/Help:Standards/Assembly/RFC10).
-
-* [alphafold2_model.pdb](alphafold2_model.pdb): This file includes the structure of ArsR protein from E. coli strain K12 substrain MG1655 predicted using [Moonbear server](https://www.getmoonbear.com/AlphaFold2) for ab initio protein structure prediction using AlphaFold2 algorithm.
-
-
-
-
-
