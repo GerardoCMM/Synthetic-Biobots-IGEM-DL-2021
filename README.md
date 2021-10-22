@@ -21,6 +21,8 @@ In this repository you can find files and code that was used by Synthetic Biobot
 
 * [IDLBB_002056](IDLBB_002056.fasta): ABS (ArsR Binding Site), as in [Xu, C. (1996)](https://doi.org/10.1074/jbc.271.5.2427).
 
+* [IDLBB_002057](IDLBB_002057.fasta): PArsR (ArsR Promoter), as in [Xu, C. (1996)](https://doi.org/10.1074/jbc.271.5.2427).
+
 * [alphafold2_model.pdb](alphafold2_model.pdb): This file includes the structure of ArsR protein from E. coli strain K12 substrain MG1655 predicted using [Moonbear server](https://www.getmoonbear.com/AlphaFold2) for ab initio protein structure prediction using AlphaFold2 algorithm.
 
 
