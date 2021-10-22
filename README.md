@@ -29,7 +29,7 @@ In this repository you can find files and parts that were used by Synthetic Biob
 
 * [IDLBB_002057](IDLBB_002057.fasta): PArsR (ArsR Promoter), as in [Xu, C. (1996)](https://doi.org/10.1074/jbc.271.5.2427).
 
-* [IDLBB_002058](IDLBB_002058.fasta): ArsR (CDS), Metalloregulatory Protein from Escherichia coli str. K-12 substr. MG1655, complete genome [U00096.3](https://www.ncbi.nlm.nih.gov/nuccore/U00096.3/) (3648528..3648881).
+* [IDLBB_002058](IDLBB_002058.fasta): ArsR (CDS), Metalloregulatory Protein from Escherichia coli str. K-12 substr. MG1655, complete genome [U00096.3](https://www.ncbi.nlm.nih.gov/nuccore/U00096.3/) (3648528..3648881). In absence of arsenate represses transcription by binding [ABS](IDLBB_002056.fasta), in it´s presence it allows transcription.
 
 * [IDLBB_002059](IDLBB_002059.fasta): GFP (CDS) Green Fluorescent Protein.
 
