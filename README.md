@@ -11,7 +11,7 @@ In this repository you can find files and code that was used by Synthetic Biobot
 
 * [Arsenate.pdb](Arsenate.pdb): Arsenate structure file obtained from [RCSB PDB](https://www3.rcsb.org/ligand/ART) with code ART; it was downloades in SDF format and then converted into PDB using [OpenBabel gui](https://openbabel.org/docs/dev/Installation/install.html).
 
-* [BBa_J61100](BBa_J61100.fasta): 
+* [BBa_J61100](BBa_J61100.fasta): RBS (Ribosome Binding Site) from [iGEM Part:BBa_J61100](http://parts.igem.org/Part:BBa_J61100). Designed by: John Anderson Group: Arkin Lab (2007-01-28)
 
 * [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS (ArsR Binding Site) 23-56, PArsR (Promoter) 49-85, RBS (Ribosome Binding Site) 94-107, ArsR (CDS) 114-467, ABS (ArsR Binding Site) 476-509, RBS (Ribosome Binding Site) 518-531, GFP (CDS) 538-1257 and rrnBT1 (Terminator) 1266-1345.
 
