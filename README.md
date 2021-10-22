@@ -27,6 +27,8 @@ In this repository you can find files and code that was used by Synthetic Biobot
 
 * [IDLBB_002058](IDLBB_002058.fasta): ArsR (CDS), Metalloregulatory Protein from Escherichia coli str. K-12 substr. MG1655, complete genome [U00096.3](https://www.ncbi.nlm.nih.gov/nuccore/U00096.3/) (3648528..3648881)
 
+* [IDLBB_002059](IDLBB_002059.fasta): GFP (CDS) Green Fluorescent Protein.
+
 * [alphafold2_model.pdb](alphafold2_model.pdb): This file includes the structure of ArsR protein from E. coli strain K12 substrain MG1655 predicted using [Moonbear server](https://www.getmoonbear.com/AlphaFold2) for ab initio protein structure prediction using AlphaFold2 algorithm.
 
 
