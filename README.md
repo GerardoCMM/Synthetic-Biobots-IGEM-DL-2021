@@ -41,6 +41,8 @@ In this repository you can find files and parts that were used by Synthetic Biob
 
 * [IDLBB_002063](IDLBB_002063.fasta): ArsB (CDS), arsenite/antimonite:H(+) antiporter from Escherichia coli str. K-12 substr. MG1655, complete genome [U00096.3](https://www.ncbi.nlm.nih.gov/nuccore/U00096.3/) (3648935..3650224).
 
+* [IDLBB_002064](IDLBB_002064.fasta): ArsC (CDS), Arsenate Reductase from Escherichia coli str. K-12 substr. MG1655, complete genome [U00096.3](https://www.ncbi.nlm.nih.gov/nuccore/U00096.3/) (3650237..3650662)
+
 * [alphafold2_model.pdb](alphafold2_model.pdb): This file includes the structure of ArsR protein from E. coli strain K12 substrain MG1655 predicted using [Moonbear server](https://www.getmoonbear.com/AlphaFold2) for ab initio protein structure prediction using AlphaFold2 algorithm.
 
 
