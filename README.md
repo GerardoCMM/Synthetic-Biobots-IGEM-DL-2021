@@ -15,6 +15,8 @@ In this repository you can find files and parts that were used by Synthetic Biob
 
 * [BBa_J61100](BBa_J61100.fasta): RBS (Ribosome Binding Site) from [iGEM Part:BBa_J61100](http://parts.igem.org/Part:BBa_J61100). Designed by: John Anderson Group: Arkin Lab (2007-01-28).
 
+* [BBa_K2282004](BBa_K2282004.fasta): pL (Promoter), from [iGEM Part:BBa_K2282004](http://parts.igem.org/Part:BBa_K2282004). Designed by: Eliott LAFON Group: iGEM17_IONIS-PARIS (2017-10-02). The promoter is repressed at low temperature by cI857 protein, this protein loses repression activity when temperature rises from 30°C until 42°C.
+
 * [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS (ArsR Binding Site) 23-56, PArsR (Promoter) 49-85, RBS (Ribosome Binding Site) 94-107, ArsR (CDS) 114-467, ABS (ArsR Binding Site) 476-509, RBS (Ribosome Binding Site) 518-531, GFP (CDS) 538-1257 and rrnBT1 (Terminator) 1266-1345.
 
 * [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Reverse rrnBT1 (Terminator) 23-102, Reverse CadR (CDS) 111-554, Reverse RBS (Ribosome Binding Site) 561-574, Reverse Bidirectional Promoter 583-666, RBS (Ribosome Binding Site) 675-688, mCherry (CDS) 695-140 and rrnBT1 (Terminator) 1414-1493.
