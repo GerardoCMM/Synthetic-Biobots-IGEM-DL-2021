@@ -13,6 +13,8 @@ In this repository you can find files and parts that were used by Synthetic Biob
 
 * [BBa_B0010](BBa_B0010.fasta): rrnBT1 (Terminator) from [iGEM Part:BBa_B0010](http://parts.igem.org/Part:BBa_B0010). Designed by: Randy Rettberg Group: Antiquity (2003-11-19).
 
+* [BBa_I14018](BBa_I14018.fasta): p(Bla) (Constitutive promoter), E. coli sigma70, from [iGEM Part:BBa_I14018](http://parts.igem.org/Part:BBa_I14018). Designed by: Vikram Vijayan, Allen Hsu, Lawrence Fomundam Group: Antiquity (2004-08-02).
+
 * [BBa_J61100](BBa_J61100.fasta): RBS (Ribosome Binding Site) from [iGEM Part:BBa_J61100](http://parts.igem.org/Part:BBa_J61100). Designed by: John Anderson Group: Arkin Lab (2007-01-28).
 
 * [BBa_K2282004](BBa_K2282004.fasta): pL (Promoter), from [iGEM Part:BBa_K2282004](http://parts.igem.org/Part:BBa_K2282004). Designed by: Eliott LAFON Group: iGEM17_IONIS-PARIS (2017-10-02). The promoter is repressed at low temperature by cI857 protein, this protein loses repression activity when temperature rises from 30°C until 42°C.
