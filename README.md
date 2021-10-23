@@ -1,7 +1,8 @@
 # Synthetic-Biobots-IGEM-DL-2021
 Information about Synthetic Biobots team participating during IGEM Design League 2021.
 
-In this repository you can find files and parts that were used by Synthetic Biobots with the purpose of developing the IGEM Design League project for 2021. In the descriptions section of this ReadMe file you will find a description of each file in this repository and aditional information.
+In this repository you can find parts that were used by Synthetic Biobots with the purpose of developing the IGEM Design League project for 2021. In the descriptions section of this ReadMe file you will find a description of each file in this repository and aditional information.
+For more information you can also see the main paga of the project on the [JOGL platform](https://app.jogl.io/project/795/Nueveaguas).
 
 
 ## Descriptions
@@ -12,17 +13,19 @@ In this repository you can find files and parts that were used by Synthetic Biob
 
 * [BBa_J61100](BBa_J61100.fasta): RBS (Ribosome Binding Site) from [iGEM Part:BBa_J61100](http://parts.igem.org/Part:BBa_J61100). Designed by: John Anderson Group: Arkin Lab (2007-01-28).
 
-+ [BBa_K200016](BBa_K200016.fasta): Temperature Sensitive Lambda cI Repressor, with cI857 mutation, from [iGEM Part:BBa_K200016](http://parts.igem.org/Part:BBa_K200016). Designed by: Royah Vaezi Group: iGEM09_Imperial College London (2009-10-14). 
+* [BBa_K200016](BBa_K200016.fasta): Temperature Sensitive Lambda cI Repressor, with cI857 mutation, from [iGEM Part:BBa_K200016](http://parts.igem.org/Part:BBa_K200016). Designed by: Royah Vaezi Group: iGEM09_Imperial College London (2009-10-14). 
 
 * [BBa_K2282004](BBa_K2282004.fasta): pL (Promoter), from [iGEM Part:BBa_K2282004](http://parts.igem.org/Part:BBa_K2282004). Designed by: Eliott LAFON Group: iGEM17_IONIS-PARIS (2017-10-02). The promoter is repressed at low temperature by cI857 protein, this protein loses repression activity when temperature rises from 30°C until 42°C.
 
-* [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS (ArsR Binding Site) 23-56, PArsR (Promoter) 49-85, RBS (Ribosome Binding Site) 94-107, ArsR (CDS) 114-467, ABS (ArsR Binding Site) 476-509, RBS (Ribosome Binding Site) 518-531, GFP (CDS) 538-1257 and rrnBT1 (Terminator) 1266-1345.
+* [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS ([IDLBB_002056](IDLBB_002056.fasta)) 23-56, PArsR ([IDLBB_002057](IDLBB_002057.fasta)) 49-85, RBS ([BBa_J61100](BBa_J61100.fasta)) 94-107, ArsR ([IDLBB_002058](IDLBB_002058.fasta)) 114-467, ABS ([IDLBB_002056](IDLBB_002056.fasta)) 476-509, RBS ([BBa_J61100](BBa_J61100.fasta)) 518-531, GFP ([IDLBB_002059](IDLBB_002059.fasta)) 538-1257 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1266-1345.
 
-* [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Reverse rrnBT1 (Terminator) 23-102, Reverse CadR (CDS) 111-554, Reverse RBS (Ribosome Binding Site) 561-574, Reverse Bidirectional Promoter 583-666, RBS (Ribosome Binding Site) 675-688, mCherry (CDS) 695-140 and rrnBT1 (Terminator) 1414-1493.
+* [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Reverse rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 23-102, Reverse CadR ([IDLBB_002060](IDLBB_002060.fasta)) 111-554, Reverse RBS ([BBa_J61100](BBa_J61100.fasta)) 561-574, Reverse PCadR/CadA ([IDLBB_002061](IDLBB_002061.fasta)) 583-666, RBS ([BBa_J61100](BBa_J61100.fasta)) 675-688, mCherry ([IDLBB_002062](IDLBB_002062.fasta)) 695-140 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1414-1493.
 
-* [IDLBB_002053](IDLBB_002053.fasta): Cadmium and Arsenic Remediaton Transcriptional Unit. Made of pL (Promoter) 23-266, RBS (Ribosome Binding Site) 275-288, ArsB (CDS) 295-1584, RBS (Ribosome Binding Site) 1593-1606, ArsC (CDS) 1613-2038, RBS (Ribosome Binding Site) 2047-2060, CadA (CDS) 2067-4280 and rrnBT1 (Terminator) 4289-4368.
+* [IDLBB_002053](IDLBB_002053.fasta): Cadmium and Arsenic Remediaton Transcriptional Unit. Made of pL ([BBa_K2282004](BBa_K2282004.fasta)) 23-266, RBS ([BBa_J61100](BBa_J61100.fasta)) 275-288, ArsB ([IDLBB_002063](IDLBB_002063.fasta)) 295-1584, RBS ([BBa_J61100](BBa_J61100.fasta)) 1593-1606, ArsC ([IDLBB_002064](IDLBB_002064.fasta)) 1613-2038, RBS ([BBa_J61100](BBa_J61100.fasta)) 2047-2060, CadA ([IDLBB_002065](IDLBB_002065.fasta)) 2067-4280 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 4289-4368.
 
-* [IDLBB_002054](IDLBB_002054.fasta): Temperature Sensitive Lambda cI Repressor Transcriptional Unit. Made of p(Bla) (Promoter) 23-57, RBS (Ribosome Binding Site) 66-79, cI875 (CDS) 86,799 and rrnBT1 (Terminator) 808-887.
+* [IDLBB_002054](IDLBB_002054.fasta): Temperature Sensitive Lambda cI Repressor Transcriptional Unit. Made of p(Bla) ([BBa_I14018](BBa_I14018.fasta)) 23-57, RBS ([BBa_J61100](BBa_J61100.fasta)) 66-79, cI875 ([BBa_K200016](BBa_K200016.fasta)) 86,799 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 808-887.
+
+* [IDLBB_002055](IDLBB_002055.fasta): BioBrick composed by [IDLBB_002054](IDLBB_002054.fasta) and [IDLBB_002053](IDLBB_002053.fasta)
 
 * [IDLBB_002056](IDLBB_002056.fasta): ABS (ArsR Binding Site), as in [Xu, C. (1996)](https://doi.org/10.1074/jbc.271.5.2427).
 
