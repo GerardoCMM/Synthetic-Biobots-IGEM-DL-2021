@@ -7,6 +7,8 @@ For more information you can also see the main paga of the project on the [JOGL 
 
 ## Descriptions
 
+### Previous iGEM registered Parts
+
 * [BBa_B0010](BBa_B0010.fasta): rrnBT1 (Terminator) from [iGEM Part:BBa_B0010](http://parts.igem.org/Part:BBa_B0010). Designed by: Randy Rettberg Group: Antiquity (2003-11-19).
 
 * [BBa_I14018](BBa_I14018.fasta): p(Bla) (Constitutive promoter), E. coli sigma70, from [iGEM Part:BBa_I14018](http://parts.igem.org/Part:BBa_I14018). Designed by: Vikram Vijayan, Allen Hsu, Lawrence Fomundam Group: Antiquity (2004-08-02).
@@ -17,11 +19,13 @@ For more information you can also see the main paga of the project on the [JOGL 
 
 * [BBa_K2282004](BBa_K2282004.fasta): pL (Promoter), from [iGEM Part:BBa_K2282004](http://parts.igem.org/Part:BBa_K2282004). Designed by: Eliott LAFON Group: iGEM17_IONIS-PARIS (2017-10-02). The promoter is repressed at low temperature by cI857 protein, this protein loses repression activity when temperature rises from 30°C until 42°C.
 
+### Synthetic Biobots Parts
+
 * [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS ([IDLBB_002056](IDLBB_002056.fasta)) 23-56, PArsR ([IDLBB_002057](IDLBB_002057.fasta)) 49-85, RBS ([BBa_J61100](BBa_J61100.fasta)) 94-107, ArsR ([IDLBB_002058](IDLBB_002058.fasta)) 114-467, ABS ([IDLBB_002056](IDLBB_002056.fasta)) 476-509, RBS ([BBa_J61100](BBa_J61100.fasta)) 518-531, GFP ([IDLBB_002059](IDLBB_002059.fasta)) 538-1257 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1266-1345.
 
 [![alt text](Img/IDLBB_002051.png)](IDLBB_002051.fasta)
 
-* [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Reverse rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 23-102, Reverse CadR ([IDLBB_002060](IDLBB_002060.fasta)) 111-554, Reverse RBS ([BBa_J61100](BBa_J61100.fasta)) 561-574, Reverse PCadR/CadA ([IDLBB_002061](IDLBB_002061.fasta)) 583-666, RBS ([BBa_J61100](BBa_J61100.fasta)) 675-688, mCherry ([IDLBB_002062](IDLBB_002062.fasta)) 695-140 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1414-1493.
+* [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Complement rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 23-102, Complement CadR ([IDLBB_002060](IDLBB_002060.fasta)) 111-554, Complement RBS ([BBa_J61100](BBa_J61100.fasta)) 561-574, Complement PCadR/CadA ([IDLBB_002061](IDLBB_002061.fasta)) 583-666, RBS ([BBa_J61100](BBa_J61100.fasta)) 675-688, mCherry ([IDLBB_002062](IDLBB_002062.fasta)) 695-140 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1414-1493.
 
 [![alt text](Img/IDLBB_002052.png)](IDLBB_002052.fasta)
 
