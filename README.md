@@ -19,7 +19,7 @@ For more information you can also see the main paga of the project on the [JOGL 
 
 * [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS ([IDLBB_002056](IDLBB_002056.fasta)) 23-56, PArsR ([IDLBB_002057](IDLBB_002057.fasta)) 49-85, RBS ([BBa_J61100](BBa_J61100.fasta)) 94-107, ArsR ([IDLBB_002058](IDLBB_002058.fasta)) 114-467, ABS ([IDLBB_002056](IDLBB_002056.fasta)) 476-509, RBS ([BBa_J61100](BBa_J61100.fasta)) 518-531, GFP ([IDLBB_002059](IDLBB_002059.fasta)) 538-1257 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1266-1345.
 
-![alt text](Img/IDLBB_002051.png)
+[![alt text](Img/IDLBB_002051.png)](IDLBB_002051.fasta)
 
 * [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Reverse rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 23-102, Reverse CadR ([IDLBB_002060](IDLBB_002060.fasta)) 111-554, Reverse RBS ([BBa_J61100](BBa_J61100.fasta)) 561-574, Reverse PCadR/CadA ([IDLBB_002061](IDLBB_002061.fasta)) 583-666, RBS ([BBa_J61100](BBa_J61100.fasta)) 675-688, mCherry ([IDLBB_002062](IDLBB_002062.fasta)) 695-140 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1414-1493.
 
