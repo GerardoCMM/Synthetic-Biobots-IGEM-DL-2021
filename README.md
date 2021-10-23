@@ -21,6 +21,8 @@ For more information you can also see the main paga of the project on the [JOGL 
 
 ### Synthetic Biobots Parts
 
+#### Composite Parts
+
 * [IDLBB_002051](IDLBB_002051.fasta): Arsenic Biosensor Transcriptional Unit. Made of ABS ([IDLBB_002056](IDLBB_002056.fasta)) 23-56, PArsR ([IDLBB_002057](IDLBB_002057.fasta)) 49-85, RBS ([BBa_J61100](BBa_J61100.fasta)) 94-107, ArsR ([IDLBB_002058](IDLBB_002058.fasta)) 114-467, ABS ([IDLBB_002056](IDLBB_002056.fasta)) 476-509, RBS ([BBa_J61100](BBa_J61100.fasta)) 518-531, GFP ([IDLBB_002059](IDLBB_002059.fasta)) 538-1257 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1266-1345.
 
 [![alt text](Img/IDLBB_002051.png)](IDLBB_002051.fasta)
@@ -40,6 +42,8 @@ For more information you can also see the main paga of the project on the [JOGL 
 * [IDLBB_002055](IDLBB_002055.fasta): BioBrick composed by [IDLBB_002054](IDLBB_002054.fasta) and [IDLBB_002053](IDLBB_002053.fasta)
 
 [![alt text](Img/IDLBB_002055.png)](IDLBB_002055.fasta)
+
+#### Basic Parts
 
 * [IDLBB_002056](IDLBB_002056.fasta): ABS (ArsR Binding Site), as in [Xu, C. (1996)](https://doi.org/10.1074/jbc.271.5.2427).
 
