@@ -23,19 +23,19 @@ For more information you can also see the main paga of the project on the [JOGL 
 
 * [IDLBB_002052](IDLBB_002052.fasta): Cadmium Biosensor Transcriptional Unit. Made of Reverse rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 23-102, Reverse CadR ([IDLBB_002060](IDLBB_002060.fasta)) 111-554, Reverse RBS ([BBa_J61100](BBa_J61100.fasta)) 561-574, Reverse PCadR/CadA ([IDLBB_002061](IDLBB_002061.fasta)) 583-666, RBS ([BBa_J61100](BBa_J61100.fasta)) 675-688, mCherry ([IDLBB_002062](IDLBB_002062.fasta)) 695-140 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 1414-1493.
 
-![alt text](Img/IDLBB_002052.png)
+[![alt text](Img/IDLBB_002052.png)](IDLBB_002052.fasta)
 
 * [IDLBB_002053](IDLBB_002053.fasta): Cadmium and Arsenic Remediaton Transcriptional Unit. Made of pL ([BBa_K2282004](BBa_K2282004.fasta)) 23-266, RBS ([BBa_J61100](BBa_J61100.fasta)) 275-288, ArsB ([IDLBB_002063](IDLBB_002063.fasta)) 295-1584, RBS ([BBa_J61100](BBa_J61100.fasta)) 1593-1606, ArsC ([IDLBB_002064](IDLBB_002064.fasta)) 1613-2038, RBS ([BBa_J61100](BBa_J61100.fasta)) 2047-2060, CadA ([IDLBB_002065](IDLBB_002065.fasta)) 2067-4280 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 4289-4368.
 
-![alt text](Img/IDLBB_002053.png)
+[![alt text](Img/IDLBB_002053.png)](IDLBB_002053.fasta)
 
 * [IDLBB_002054](IDLBB_002054.fasta): Temperature Sensitive Lambda cI Repressor Transcriptional Unit. Made of p(Bla) ([BBa_I14018](BBa_I14018.fasta)) 23-57, RBS ([BBa_J61100](BBa_J61100.fasta)) 66-79, cI875 ([BBa_K200016](BBa_K200016.fasta)) 86,799 and rrnBT1 ([BBa_B0010](BBa_B0010.fasta)) 808-887.
 
-![alt text](Img/IDLBB_002054.png)
+[![alt text](Img/IDLBB_002054.png)](IDLBB_002054.fasta)
 
 * [IDLBB_002055](IDLBB_002055.fasta): BioBrick composed by [IDLBB_002054](IDLBB_002054.fasta) and [IDLBB_002053](IDLBB_002053.fasta)
 
-![alt text](Img/IDLBB_002055.png)
+[![alt text](Img/IDLBB_002055.png)](IDLBB_002055.fasta)
 
 * [IDLBB_002056](IDLBB_002056.fasta): ABS (ArsR Binding Site), as in [Xu, C. (1996)](https://doi.org/10.1074/jbc.271.5.2427).
 
